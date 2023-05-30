@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFileShredder", "SimpleFileShredder\SimpleFileShredder.csproj", "{B11EA519-5DDD-4ED0-BCC9-C062E9709161}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Installer\Installer.vdproj", "{935AFDDF-EFE9-4214-A836-1D6139AC0E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11EA519-5DDD-4ED0-BCC9-C062E9709161}.Debug|x86.ActiveCfg = Debug|x86
+		{B11EA519-5DDD-4ED0-BCC9-C062E9709161}.Debug|x86.Build.0 = Debug|x86
+		{B11EA519-5DDD-4ED0-BCC9-C062E9709161}.Release|x86.ActiveCfg = Release|x86
+		{B11EA519-5DDD-4ED0-BCC9-C062E9709161}.Release|x86.Build.0 = Release|x86
+		{935AFDDF-EFE9-4214-A836-1D6139AC0E56}.Debug|x86.ActiveCfg = Debug
+		{935AFDDF-EFE9-4214-A836-1D6139AC0E56}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C635CDAF-32C8-4729-B616-283DADE1B23D}
+	EndGlobalSection
+EndGlobal
